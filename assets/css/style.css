@@ -428,8 +428,8 @@ a:hover{
         overflow: hidden;
         width: 100%;
         max-width: 170px;
-        height: 170px;
-        max-height: 170px;
+        height: 100px;
+        max-height: 100px;
         margin: 0 auto;
         border: solid 3px transparent;
         border-radius: 50%;
