@@ -428,8 +428,8 @@ a:hover{
         overflow: hidden;
         width: 100%;
         max-width: 170px;
-        height: 100px;
-        max-height: 100px;
+        height: 170px;
+        max-height: 170px;
         margin: 0 auto;
         border: solid 3px transparent;
         border-radius: 50%;
@@ -440,7 +440,8 @@ a:hover{
 
     .hero-portrait .pic {
         width: 100%;
-        background-size: cover;
+        height: 250px; /* atur sesuai kebutuhan */
+        background-size: contain;
         background-position: center;
         background-repeat: no-repeat;
         background-image: url(/assets/images/portrait.webp);
