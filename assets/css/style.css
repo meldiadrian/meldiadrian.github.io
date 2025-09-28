@@ -440,7 +440,7 @@ a:hover{
 
     .hero-portrait .pic {
         width: 100%;
-        height: 400px; /* atur sesuai kebutuhan */
+        height: 250px; /* atur sesuai kebutuhan */
         background-size: contain;
         background-position: center;
         background-repeat: no-repeat;
